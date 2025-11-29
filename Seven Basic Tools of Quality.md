@@ -1,6 +1,4 @@
-### What are the Seven Basic Tools of Quality?
-
-I'm glad you're eager to dive deeper into the content! Let's break this down step by step.
+# What are the Seven Basic Tools of Quality?
 
 ### 1. Detailed Notes of the Video
 - **Introduction to Quality**: 
@@ -57,5 +55,3 @@ Here are some sample questions that could be suitable for a White Belt level exa
 4. **Fill in the Blank**: The seven basic tools of quality were developed after __________ and are credited to quality guru __________.
 
 5. **Scenario-Based Question**: A company is experiencing a high number of customer complaints. Which of the seven basic tools would you recommend they use first to identify the root cause, and why?
-
-Feel free to ask if you need further clarification or additional examples! You're doing great in your learning journey!
