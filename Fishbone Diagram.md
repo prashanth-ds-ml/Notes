@@ -89,3 +89,58 @@ I can help you with a detailed explanation of the fish bone diagram, provide a r
 
 5. **Provide an example of a problem that could be analyzed using a fish bone diagram.**
    - Answer: Low customer satisfaction scores could be analyzed by identifying causes related to service quality, product issues, and external factors.
+
+## What are the Steps to Create a Fishbone Diagram on PowerPoint?
+
+1. **Define the Problem**:
+   - Clearly articulate the problem you are trying to solve.
+   - Document the problem on a chart paper in the shape of a fishbone diagram (Ishikawa diagram).
+   - Example: "Low employee productivity."
+
+2. **Draw Generic Headings as Branches**:
+   - Create a horizontal arrow from the "eye" of the fish (the problem).
+   - Add generic headings (like the 6 Ms: Man, Machine, Method, Material, Measurement, Environment) as branches from the main arrow.
+
+3. **Brainstorm Level One Root Causes**:
+   - Ask "Why?" to identify the main causes of the problem.
+   - Document these causes as branches under the appropriate categories.
+   - Example: Under "Man," you might list multitasking, workplace stress, and burnout.
+
+4. **Brainstorm Level Two Root Causes**:
+   - For each level one root cause, ask "Why?" again to uncover deeper causes.
+   - Continue branching out to show causal relationships.
+   - Example: For "multitasking," you might find causes like unclear priorities or lack of training.
+
+5. **Cover the Entire Spectrum**:
+   - Ensure that all branches of the fishbone diagram are explored.
+   - Look for areas with fewer ideas and encourage brainstorming to fill those gaps.
+
+### Real-Life Example: Improving Employee Productivity in a Company
+
+- **Context**: Imagine you are a product manager at a tech company facing low employee productivity.
+  
+- **Step-by-Step Application**:
+  1. **Define the Problem**: You notice that project deadlines are frequently missed, and team morale is low. You document this as "Low Employee Productivity."
+  
+  2. **Draw Generic Headings**: You create a fishbone diagram with branches labeled "Man," "Machine," "Method," etc.
+  
+  3. **Brainstorm Level One Root Causes**:
+     - Under "Man," you identify issues like "multitasking" and "workplace stress."
+     - Under "Method," you note "inefficient processes" and "lack of clear communication."
+  
+  4. **Brainstorm Level Two Root Causes**:
+     - For "multitasking," you ask why and discover that employees are juggling multiple projects due to unclear priorities.
+     - For "inefficient processes," you find that outdated tools are slowing down work.
+  
+  5. **Cover the Entire Spectrum**: You encourage your team to brainstorm further on the "Machine" category, where you find that some employees lack access to necessary software tools.
+
+- **Relevance**: This example is relevant because it illustrates how to apply the fishbone diagram method to a real-world problem, helping you understand the practical application of the concepts learned in the lecture.
+
+### Potential White Belt Level Exam Questions
+
+1. **Define the purpose of a fishbone diagram and explain its components.**
+2. **What are the six generic headings commonly used in a fishbone diagram?**
+3. **Describe the process of identifying level one root causes in a fishbone diagram.**
+4. **How can asking "Why?" help in uncovering deeper root causes?**
+5. **Why is it important to cover the entire spectrum of ideas when using a fishbone diagram?**
+
