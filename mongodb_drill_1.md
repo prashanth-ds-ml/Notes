@@ -1,5 +1,3 @@
----
-
 # 🔥 CRUD DRILLS — ROUND 1 (READ → PREDICT → TYPE → VERIFY)
 
 ### Setup (do once)
